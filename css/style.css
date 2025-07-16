@@ -1,0 +1,158 @@
+p{
+    background-color: rgb(2, 64, 165);
+    color:aliceblue;
+    margin-bottom: 5px;
+    width: 30%;
+}
+.p1{
+    background-color: rgb(255, 0, 0);
+}
+.d1{
+    display: flex;
+    background-color: aqua;
+}
+h1{
+
+    width: 30%;
+}
+.d2{
+    text-align: center;
+    display: flex;
+    height: 200px;
+    background: linear-gradient(90deg,rgba(131, 58, 180, 1) 0%, rgba(253, 29, 29, 1) 50%, rgba(252, 176, 69, 1) 100%);
+}
+.d3{
+    background-image: url(../imagem/arvore.jpeg);
+    background-size: cover;
+    height: 400px;
+    display: flex;
+}
+h2{
+    width : 20%;
+    margin-right: 10%;
+   
+}
+.pass{
+    width: 20%;
+    margin-left: 10%;
+}
+.pass2{
+    width: 20%;
+    margin-left: 10%;
+}
+.b1{
+    display: flex;
+    text-align: center;
+    background-image: url(../imagem/arvore.jpeg);
+    background-size: cover;
+}
+.b2{
+    width: 20%;
+    margin-left: 5%;
+    padding-top: 45px;
+    height: 200px;
+}
+.c1{
+    background-image: url(../imagem/doces.jpg);
+    display: flex;
+    background-size: cover;
+    text-align: center;
+    text-align: justify;
+}
+.c2{
+    width: 20%;
+    margin-left:10%;
+    padding-top: 45px;
+    height: 200px;
+}
+.c3{
+    width: 20%;
+    margin-left: 10%;
+    padding-top: 45px;
+    height: 200px;
+}
+.c4{
+    width: 20%;
+    margin-left: 10%;
+    padding-top: 45px;
+    height: 200px;
+}
+.e1{
+    display: flex;
+    text-align: center;
+    text-align: justify;
+    background: linear-gradient(90deg,rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 35%, rgba(0, 212, 255, 1) 100%);
+}
+h3{
+    font-size: 30px;
+    width: 20%;
+    margin-left: 10%;
+    padding-top: 45px;
+    height: 200px;
+    text-align:justify;
+    background-color: rgba(240, 248, 255, 0.595);
+}
+.e2{
+    width: 200px;
+    height: 200px;
+    margin-left: 15%;
+}
+.e3{
+    width: 200px;
+    height: 200px;
+    text-align: right;
+    padding-right: 20%;
+    margin-left: 25%;
+}
+.f2{
+    background: linear-gradient(90deg,rgba(42, 123, 155, 1) 0%, rgba(87, 199, 133, 1) 50%, rgba(237, 221, 83, 1) 100%);
+    font-size: 500%;
+    width: 100%;
+    text-align: center;
+}
+.g1{
+    background-image: url(../imagem/doces.jpg);
+    height: 1200;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.g2{
+    width: 33%;
+}
+h5{
+    background-color: aliceblue;
+    font-size: 200%;
+    text-align: center;
+    width: 35%;
+    margin-left: 25%;
+       
+}
+h6{
+    
+    font-size: 150%;
+    margin-left: 25%;
+}
+.h7{
+    
+    display: flex;
+    text-align: center;
+}
+.h11{
+    width: 80%;
+    margin-top: 20%;
+
+}
+.h8{
+    width: 30%;
+    margin-left: 10%;
+    background: #eb006d;
+    background: radial-gradient(circle,rgba(235, 0, 109, 1) 0%, rgba(148, 187, 233, 1) 100%);
+}
+.h10{
+    width: 40%;
+    font-size: 200%;
+    padding-top: 50px;
+}
